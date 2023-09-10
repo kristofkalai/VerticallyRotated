@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "sizepreferencekey",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/SizePreferenceKey",
+      "state" : {
+        "revision" : "b2189e367f0cabcecccfa56c66e6ff4e444bdc37",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "verticallyrotated",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/VerticallyRotated",
+      "state" : {
+        "revision" : "921cc6f4190a9c4ce31e36129ab50df82c3e511d",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
