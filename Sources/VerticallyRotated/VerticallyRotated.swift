@@ -20,6 +20,5 @@ extension VerticallyRotated: ViewModifier {
             .fixedSize()
             .rotationEffect(.degrees(bottomUpReadable ? 270 : 90))
             .frame(width: size.height, height: size.width)
-            .border(Color.red)
     }
 }

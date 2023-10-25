@@ -25,8 +25,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
             name: "VerticallyRotated",
-            dependencies: ["SizePreferenceKey"],
-            path: "Sources"),
+            dependencies: ["SizePreferenceKey"]),
         .testTarget(
             name: "VerticallyRotatedTests",
             dependencies: ["VerticallyRotated"]),
